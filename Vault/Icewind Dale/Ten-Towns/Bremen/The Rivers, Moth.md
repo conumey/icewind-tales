@@ -1,0 +1,1 @@
+Furniture is all kinds, bought from whoever.

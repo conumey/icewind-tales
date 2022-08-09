@@ -1,0 +1,6 @@
+---
+tags:
+  - Item
+  - Spellbook
+  - Magic
+---
