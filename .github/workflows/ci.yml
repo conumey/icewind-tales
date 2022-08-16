@@ -15,4 +15,5 @@ jobs:
       - run: pip install mkdocs-awesome-pages-plugin
       - run: pip install mkdocs-ezlinks-plugin
       - run: pip install mkdocs-ezlinked-plugin
+      - run: pip install git+https://github.com/Andre601/mkdocs-pagenav-generator
       - run: mkdocs gh-deploy --force
