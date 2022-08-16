@@ -7,6 +7,6 @@ tags:
 
 [[Larry]]
 [[Magic Lantern]]
-[[Dannika Greysteel]]
+[[Danika Greysteel]]
 [[Targos]]
 [[Crome]]

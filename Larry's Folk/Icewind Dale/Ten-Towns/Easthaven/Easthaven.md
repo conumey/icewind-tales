@@ -3,7 +3,7 @@ Large town on the shore of [[Lac Dinneshere]] in [[Ten-Towns]], [[Icewind Dale]]
 
 ## Notable People
 [[Daveth Waylen]] - Speaker
-[[D'Zan]] - Red Wizard, Executed here
+[[Dzaan]] - Red Wizard, Executed here
 [[Bartaban]] - Inkeeper of [[White Lady Inn]]
 [[Ricardo the Sultry]] - Bard and resident nuisance at [[White Lady Inn]]
 [[Milboil]] - Dickhead extraordinaire

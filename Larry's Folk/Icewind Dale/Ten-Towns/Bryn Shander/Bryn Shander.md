@@ -11,7 +11,7 @@ Large town in [[Ten-Towns]], [[Icewind Dale]]
 [[Scramsquash]] - Inkeeper of [[Northlook Inn]]
 [[Garn]], [[Elza]] - [[Blackiron Blades]] 
 [[Oobok]], [[Hrung]], [[Korok]], [[Stern]] - Dwarven Brothers
-[[Dannika Greysteel]] - Scholar
+[[Danika Greysteel]] - Scholar
 [[Jimothy]], [[Craig]], [[Lucille]] - Guards
 [[Perry Fishfinger]] - Priest of the [[Morninglord]]
 [[Copper Knobknocker]], [[Macreadus Manspleen]] - Townsfolk

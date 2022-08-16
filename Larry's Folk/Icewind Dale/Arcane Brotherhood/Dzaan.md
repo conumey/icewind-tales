@@ -5,7 +5,7 @@ tags:
   - Simulacrum
   - Arcane-Brotherhood
 ---
-# D'Zan 
+# Dzaan 
 
 Red Wizard
 

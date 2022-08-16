@@ -6,4 +6,4 @@ tags:
 
 Worshipper of [[Morninglord]].
 
-Missing.
+Reported missing by [[Copper Knobknocker]] in [[The Daily Dale No1]].

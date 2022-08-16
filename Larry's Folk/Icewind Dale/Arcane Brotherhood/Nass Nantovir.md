@@ -5,6 +5,6 @@ tags:
 ---
 # Nass Nantovir 
 
-Said to be looking for [[D'Zan]], along with [[Avarice]] and [[Vellynne Harpell]].
+Said to be looking for [[Dzaan]], along with [[Avarice]] and [[Vellynne Harpell]].
 
 Part of the [[Arcane Brotherhood]].

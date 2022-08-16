@@ -1,7 +1,7 @@
 ---
 tags:
-  - Bugbear
+  - Undead
   - Mercenary
 ---
-# Brek 
+# Krintaas 
 
