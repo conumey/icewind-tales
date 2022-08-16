@@ -1,0 +1,36 @@
+site_name: Larry's Folk
+docs_dir: Larry's Folk
+theme:
+  name: material
+  features:
+    - toc.follow
+    - toc.integrate
+    - navigation.top
+    - navigation.indexes
+    - navigation.instant
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+plugins:
+  - search
+  - ezlinks
+  - awesome-pages:
+        collapse_single_pages: true
+  - tags

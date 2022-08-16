@@ -1,6 +1,0 @@
----
-tags:
-  - Merchant
----
-
-Runs [[Stables]]

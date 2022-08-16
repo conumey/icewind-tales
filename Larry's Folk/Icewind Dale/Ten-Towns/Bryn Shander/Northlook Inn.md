@@ -1,0 +1,5 @@
+---
+tags:
+  - Inn
+---
+# Northlook Inn 

@@ -1,6 +1,0 @@
----
-tags:
-  - Dragon
----
-
-Took [[Tangkwunu]].

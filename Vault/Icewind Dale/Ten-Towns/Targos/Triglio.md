@@ -1,1 +1,0 @@
-Shop of normal goods in [[Targos]] run by [[Triglio]].

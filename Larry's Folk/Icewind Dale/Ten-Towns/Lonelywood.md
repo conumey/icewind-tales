@@ -1,0 +1,6 @@
+---
+tags:
+  - Town
+  - Destroyed
+---
+# Lonelywood 

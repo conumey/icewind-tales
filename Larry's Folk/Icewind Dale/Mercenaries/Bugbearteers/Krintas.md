@@ -1,0 +1,7 @@
+---
+tags:
+  - Undead
+  - Mercenary
+---
+# Krintas 
+

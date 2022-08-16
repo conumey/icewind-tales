@@ -1,1 +1,0 @@
-run by [[Oboid Tarnation]], upstairs permanently occupied by the speaker of [[Targos]], [[Narth Maximum]]

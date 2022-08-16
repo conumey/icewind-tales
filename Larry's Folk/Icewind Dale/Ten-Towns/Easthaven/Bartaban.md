@@ -1,0 +1,6 @@
+---
+tags:
+  - Innkeeper
+  - Merchant
+---
+# Bartaban 

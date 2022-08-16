@@ -1,1 +1,0 @@
-Dwarven Village at the base of [[Kelvin's Cairn]].
