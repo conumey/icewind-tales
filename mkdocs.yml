@@ -9,6 +9,8 @@ theme:
     - navigation.indexes
     - navigation.instant
   palette:
+    - primary: deep purple
+    - accent: yellow
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
