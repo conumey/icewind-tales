@@ -1,5 +1,6 @@
 site_name: Larry's Folk
 docs_dir: Larry's Folk
+repo_url: https://github.com/conumey/icewind-tales
 theme:
   name: material
   features:
@@ -9,14 +10,16 @@ theme:
     - navigation.indexes
     - navigation.instant
   palette:
-    - primary: deep purple
-    - accent: yellow
     - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: deep purple
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
+      scheme: default
+      primary: deep purple
+      accent: yellow
       scheme: slate
       toggle:
         icon: material/brightness-4
