@@ -11,9 +11,6 @@ jobs:
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
-      - run: pip install mkdocs-material 
-      - run: pip install mkdocs-awesome-pages-plugin
-      - run: pip install mkdocs-ezlinks-plugin
-      - run: pip install mkdocs-ezlinked-plugin
-      - run: pip install git+https://github.com/Andre601/mkdocs-pagenav-generator
+      - name: Install Python dependencies
+        uses: py-actions/py-dependency-install@v3
       - run: mkdocs gh-deploy --force
