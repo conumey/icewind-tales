@@ -5,9 +5,7 @@ theme:
   name: material
   features:
     - toc.follow
-    - toc.integrate
     - navigation.top
-    - navigation.indexes
     - navigation.instant
   palette:
     - media: "(prefers-color-scheme: light)"

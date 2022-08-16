@@ -4,6 +4,7 @@ tags:
   - Cursed
   - Magic
 ---
+# Levistus Amulet 
 
 [[Cult of Levistus]] amulet. Dying while wearing it seems to encase the body in ice. Trying to remove it kills the wearer by encasing them in ice.
 
