@@ -24,6 +24,9 @@ theme:
         name: Switch to light mode
 plugins:
   - search
+  - exclude:
+      glob:
+        - "*/Templates/*"
   - ezlinks
   - awesome-pages:
         collapse_single_pages: true

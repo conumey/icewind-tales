@@ -4,3 +4,4 @@ mkdocs-awesome-pages-plugin
 mkdocs-ezlinks-plugin
 mkdocs-ezlinked-plugin
 git+https://github.com/Andre601/mkdocs-pagenav-generator
+mkdocs-exclude
