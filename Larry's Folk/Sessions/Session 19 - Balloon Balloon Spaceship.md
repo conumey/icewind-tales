@@ -7,7 +7,8 @@ date: 2022-03-29
 game_date: 8,9
 ---
 
-# Session 19 - Balloon Balloon Spaceship
+# Balloon Balloon Spaceship
+## Session 
 #### 2022-04-12 / 8th to 9th Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Tangkwunu]], [[Worb]]
 

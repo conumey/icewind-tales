@@ -7,7 +7,8 @@ date: 2022-06-07
 game_date: 12,13,14
 ---
 
-# Session 25 - Imminent Threat
+# Imminent Threat
+## Session 
 #### 2022-06-07 / 12th to 14th Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Don Fyre]], [[Depeche]]
 

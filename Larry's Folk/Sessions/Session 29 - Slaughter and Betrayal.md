@@ -7,7 +7,8 @@ date: 2022-07-12
 game_date: 14
 ---
 
-# Session 29 - Slaughter and Betrayal
+# Slaughter and Betrayal
+## Session 
 #### 2022-07-12 / 14th Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Don Fyre]], [[Depeche]]
 

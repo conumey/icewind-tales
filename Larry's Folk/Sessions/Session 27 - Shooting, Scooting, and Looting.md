@@ -7,7 +7,8 @@ date: 2022-06-14
 game_date: 14
 ---
 
-# Session 27 - Shooting, Scooting, and Looting
+# Shooting, Scooting, and Looting
+## Session 
 #### 2022-06-28 / 14th Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Don Fyre]], [[Depeche]]
 

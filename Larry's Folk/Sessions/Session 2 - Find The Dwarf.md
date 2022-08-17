@@ -7,7 +7,8 @@ date: 2021-10-19
 game_date: 2
 ---
 
-# Session 2 - Find The Dwarf
+# Find The Dwarf
+## Session 2
 #### 2021-10-19 / 2nd Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Tangkwunu]], [[Haberdash]]
 

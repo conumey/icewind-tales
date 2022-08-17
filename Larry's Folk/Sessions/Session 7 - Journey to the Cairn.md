@@ -7,7 +7,8 @@ date: 2021-12-10
 game_date: 3,4
 ---
 
-# Session 7 - Journey to the Cairn
+# Journey to the Cairn
+## Session 7
 #### 2021-12-10 / 3rd to 4th Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Tangkwunu]], [[Haberdash]], [[Don Fyre]]
 

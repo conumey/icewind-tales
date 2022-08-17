@@ -7,7 +7,8 @@ date: 2022-03-08
 game_date: 7,8
 ---
 
-# Session 17 - Who Steals a Cauldron
+# Who Steals a Cauldron
+## Session 
 #### 2022-03-08 / 7th to 8th Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Tangkwunu]], [[Worb]]
 

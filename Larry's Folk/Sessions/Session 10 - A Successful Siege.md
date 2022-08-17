@@ -7,7 +7,8 @@ date: 2022-01-11
 game_date: 5 
 ---
 
-# Session 10 - A Successful Siege
+# A Successful Siege
+## Session 10
 #### 2022-01-11 / 5th Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Tangkwunu]], [[Don Fyre]]
 

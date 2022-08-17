@@ -7,7 +7,8 @@ date: 2021-11-29
 game_date: 3
 ---
 
-# Session 6 - Sethek Showdown and Tovus
+# Sethek Showdown and Tovus
+## Session 6
 #### 2021-11-29 / 3rd Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Tangkwunu]], [[Haberdash]]
 

@@ -7,7 +7,8 @@ date: <% tp.date.now() %>
 game_date: 
 ---
 <% tp.file.rename('Session ' + tp.user.session_count(tp)) %>
-# Session <% tp.user.session_count(tp) %>
+# Title
+## Session <% tp.user.session_count(tp) %>
 #### <% tp.date.now() %>
 #####
 

@@ -7,7 +7,8 @@ date: 2022-07-19
 game_date: 14,15
 ---
 
-# Session 30 - Tour of Destruction
+# Tour of Destruction
+## Session 
 #### 2022-07-13 / 14-15th Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Don Fyre]], [[Depeche]], [[Vellynne Harpell]]
 

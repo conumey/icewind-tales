@@ -7,7 +7,8 @@ date: 2022-02-09
 game_date: 6
 ---
 
-# Session 13 - There And Hag Again
+# There And Hag Again
+## Session 13
 #### 2022-02-09 / 6th Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Tangkwunu]], [[Don Fyre]], [[Worb]]
 

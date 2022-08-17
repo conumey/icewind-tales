@@ -7,7 +7,8 @@ date: 2022-08-15
 game_date: 16, 17
 ---
 
-# Session 33 - Ice (Giant, Mammoth, Troll)
+# Ice (Giant, Mammoth, Troll)
+## Session 
 #### 2022-08-15 16th/17th Hammer 1490 
 ##### [[Raisin]], [[Soren]], [[Depeche]], [[Jory Namaceam]], [[Vellynne Harpell]]
 

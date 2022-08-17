@@ -7,7 +7,8 @@ date: 2022-02-16
 game_date: 6
 ---
 
-# Session 14 - Don Fyre the White (Fang)
+# Don Fyre the White (Fang)
+## Session 
 #### 2022-02-16 / 6th Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Tangkwunu]], [[Worb]]
 

@@ -7,7 +7,8 @@ date: 2021-11-09
 game_date: 2
 ---
 
-# Session 4 - Negotiations and Gossip
+# Negotiations and Gossip
+## Session 4
 #### 22021-11-09  / 2nd Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Tangkwunu]], [[Haberdash]]
 

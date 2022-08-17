@@ -7,7 +7,8 @@ date: 2022-04-19
 game_date: 9,10
 ---
 
-# Session 20 - Woby Gick
+# Woby Gick
+## Session 
 #### 2022-04-19 / 9th to 10th Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Tangkwunu]], [[Worb]], [[Depeche]]
 

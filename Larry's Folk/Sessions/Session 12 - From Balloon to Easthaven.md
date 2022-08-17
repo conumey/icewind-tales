@@ -7,7 +7,8 @@ date: 2022-01-25
 game_date: 5,6
 ---
 
-# Session 12 - From Balloon to Easthaven
+# From Balloon to Easthave
+## Session 12
 #### 2022-01-25 / 5th to 6th Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Tangkwunu]], [[Don Fyre]]
 

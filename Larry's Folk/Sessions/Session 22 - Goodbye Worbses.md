@@ -7,7 +7,8 @@ date: 2022-05-11
 game_date: 10,11
 ---
 
-# Session 22 - Goodbye Worbses
+# Goodbye Worbses
+## Session 
 #### 2022-05-11 / 10th to 11th Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Worb]], [[Depeche]], [[Don Fyre]]
 

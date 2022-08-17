@@ -7,7 +7,8 @@ date: 2022-06-14
 game_date: 14
 ---
 
-# Session 28 - Jailhouse Flop
+# Jailhouse Flop
+## Session 
 #### 2022-07-08 / 14th Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Don Fyre]], [[Depeche]]
 

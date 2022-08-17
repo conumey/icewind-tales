@@ -7,7 +7,8 @@ date: 2021-11-16
 game_date: 3
 ---
 
-# Session 5 - Bryn Shander and Caer-Dineval
+# Bryn Shander and Caer-Dineval
+## Session 5
 #### 2021-11-16 /  3rd Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Tangkwunu]], [[Haberdash]]
 

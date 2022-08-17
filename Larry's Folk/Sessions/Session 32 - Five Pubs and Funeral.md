@@ -7,7 +7,8 @@ date: 2022-08-09
 game_date: 15, 16
 ---
 
-# Session 32 - Five Pubs and Funeral
+# Five Pubs and Funeral
+## Session 
 #### 2022-08-09 / 15th - 16th Hammer 1490 
 ##### [[Raisin]], [[Soren]], [[Don Fyre]], [[Depeche]], [[Jory Namaceam]], [[Vellynne Harpell]]
 

@@ -7,7 +7,8 @@ date: 2022-03-01
 game_date: 7
 ---
 
-# Session 16 - The Bugbearteers
+# The Bugbearteers
+## Session 
 #### 2022-03-01 / 7th Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Tangkwunu]], [[Worb]]
 

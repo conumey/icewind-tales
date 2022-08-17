@@ -7,7 +7,8 @@ date: 2021-12-14
 game_date: 4
 ---
 
-# Session 8 - Grape, Harvested Unripe
+# Grape, Harvested Unripe
+## Session 8
 #### 2021-12-14 / 4th Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Tangkwunu]], [[Don Fyre]]
 

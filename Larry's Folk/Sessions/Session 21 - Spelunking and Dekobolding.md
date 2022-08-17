@@ -7,7 +7,8 @@ date: 2022-04-26
 game_date: 10
 ---
 
-# Session 21 - Spelunking and Dekobolding
+# Spelunking and Dekobolding
+## Session 
 #### 2022-04-26 / 10th Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Worb]], [[Depeche]]
 

@@ -7,7 +7,8 @@ date: 2022-05-31
 game_date: 11,12
 ---
 
-# Session 24 - Boffy Deals and Duvessa Reels
+# Boffy Deals and Duvessa Reels
+## Session 
 #### 2022-05-31 / 11th to 12th Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Depeche]], [[Don Fyre]]
 

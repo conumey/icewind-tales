@@ -7,7 +7,8 @@ date: 2021-11-02
 game_date: 2
 ---
 
-# Session 3 - The Bremen Coronation
+# The Bremen Coronation
+## Session 3
 #### 2021-11-02 / 2nd Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Tangkwunu]], [[Haberdash]]
 

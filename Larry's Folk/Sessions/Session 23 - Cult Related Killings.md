@@ -7,7 +7,8 @@ date: 2022-05-17
 game_date: 11
 ---
 
-# Session 23 - Cult Related Killings
+# Cult Related Killings
+## Session 
 #### 2022-05-17 / 11th Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Depeche]], [[Don Fyre]]
 

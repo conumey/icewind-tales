@@ -7,7 +7,8 @@ date: 2021-10-5
 game_date: 1
 ---
 
-# Session 1 - Arrival in Bryn Shander
+# Arrival in Bryn Shander
+## Session 1
 #### 2021-10-5 / 1st Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Tangkwunu]], [[Haberdash]]
 

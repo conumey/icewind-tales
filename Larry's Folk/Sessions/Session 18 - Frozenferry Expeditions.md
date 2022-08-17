@@ -7,7 +7,8 @@ date: 2022-03-29
 game_date: 8
 ---
 
-# Session 18 - Frozenferry Expeditions
+# Frozenferry Expeditions
+## Session 
 #### 2022-03-29 / 8th Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Tangkwunu]], [[Worb]]
 

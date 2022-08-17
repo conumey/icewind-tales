@@ -7,7 +7,8 @@ date: 2022-01-18
 game_date: 5
 ---
 
-# Session 11 - Victorious Return
+# Victorious Return
+## Session 11
 #### 2022-01-18 / 5th Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Tangkwunu]], [[Don Fyre]]
 

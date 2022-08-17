@@ -7,7 +7,8 @@ date: 2022-07-20
 game_date: 15
 ---
 
-# Session 31 - Chardalyn Drag-none
+# Chardalyn Drag-none
+## Session 
 #### 2022-07-20 / 15th Hammer 1490 
 ##### [[Raisin]], [[Soren]], [[Don Fyre]], [[Depeche]], [[Vellynne Harpell]]
 

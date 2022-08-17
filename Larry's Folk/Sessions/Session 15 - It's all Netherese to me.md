@@ -7,7 +7,8 @@ date: 2022-02-22
 game_date: 7
 ---
 
-# Session 15 - It's all Netherese to me
+# It's all Netherese to me
+## Session 
 #### 2022-02-22 / 7th Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Tangkwunu]], [[Worb]]
 

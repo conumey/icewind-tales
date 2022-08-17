@@ -7,7 +7,8 @@ date: 2022-06-14
 game_date: 14
 ---
 
-# Session 26 - Duergar, Evil and Good(ish)
+# Duergar, Evil and Good(ish)
+## Session 
 #### 2022-06-14 / 14th Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Don Fyre]], [[Depeche]]
 
