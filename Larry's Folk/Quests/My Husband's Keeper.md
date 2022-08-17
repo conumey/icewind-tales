@@ -7,7 +7,7 @@ tags:
 
 [[Garrett Fryling]] is missing after taking a group of people to, and up, [[Kelvin's Cairn]]. His dog [[Boy]] has returned without him which must mean something is wrong. 
 
-[[Attenus Swift]] at [[Frozenfar Expeditions]] says they were looking for a Goliath Werebear, [[Oyaminoktok]], and that the group included a Goliath called [[Mokingo]].
+[[Atenas Swift]] at [[Frozenfar Expeditions]] says they were looking for a Goliath Werebear, [[Oyaminoktok]], and that the group included a Goliath called [[Mokingo]].
 
 [[Garrett Fryling]] was found on the mountain, injured. His group included [[Astrix]], [[Mokingo]], and [[Perry Fishfinger]]. 
 

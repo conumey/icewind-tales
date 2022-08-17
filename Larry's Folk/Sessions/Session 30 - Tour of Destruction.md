@@ -23,8 +23,8 @@ They prepare to fight the dragon, evacuating the town and any stragglers that ha
 - 7:15pm
 - Gang working out best way to get to [[Easthaven]]
 - [[Jimmy P]] is contacted, not likely
-- [[Jarthur]] is beset by the citizens of [[Caer-Konig]] begging for a ride to safety, unconvinced he should abandon them.
-- Dragon is at [[Caer-Konig]], many dead, [[Jarthur]] is saving who he can.
+- [[Jarthur]] is beset by the citizens of [[Caer Konig]] begging for a ride to safety, unconvinced he should abandon them.
+- Dragon is at [[Caer Konig]], many dead, [[Jarthur]] is saving who he can.
 - [[Boffy]] opens a gate and the gang step through into his shop, which is untouched but the town around it is destroyed.
 - He buys the gangs loot which equals 2117g 5s each.
 - [[Peoke Quint]] is still here apparently, but is now leaving.

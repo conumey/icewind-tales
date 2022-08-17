@@ -27,8 +27,8 @@ Finding the second elevator, the gang is attacked by some animated plate armour.
 - The gang smash the desk to bits, finding 20 gold and a notebook owned by a [[Nephrun]], detailing troop movements and stations, and a note, [[Zardarok]] thinks I'm plotting, if only I knew who was so I could stop them.
 - The gang decides against a short rest, due to time constraints.
 - Entering a room the gang finds a metal map of tentowns, with a little metal [[Chardalyn]] dragon on top of [[Sunblight]]. [[Depeche]] snaps off the dragon and stashes it.
-- A lever on the table causes the rod previously attached to the dragon to show a route around [[Ten-Towns]], presumably the path of destruction.
-- [[Dougan's Hole]] -> [[Good Mead]] -> [[Easthaven]] -> [[Caer Dineval]] -> [[Caer-Konig]] -> [[Termalaine]] -> [[Lonelywood]] -> [[Bremen]] -> [[Targos]] -> [[Bryn Shander]]
+- A lever on the table causes the rod previously attached to the dragon to show a route around [[Tentowns]], presumably the path of destruction.
+- [[Dougan's Hole]] -> [[Good Mead]] -> [[Easthaven]] -> [[Caer Dineval]] -> [[Caer Konig]] -> [[Termalaine]] -> [[Lonelywood]] -> [[Bremen]] -> [[Targos]] -> [[Bryn Shander]]
 - [[Soren]] sends a message to [[Marc]] with the route, and he responds "Very strange this, I will do what I can but Bryn Shander is my priority. Messages will be sent, farewell."
 - Into a room with a bed, there is a locked chest, Don fails to pick but [[Depeche]] smashes the lock with a maul. The chest contains treasures!
 	- [[Dwarven Sandals]] Made From Obsidian 250g

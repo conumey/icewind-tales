@@ -25,7 +25,7 @@ After resting at the [[Buried Treasure Inn]], and encountering [[Shrodney Mulpho
 - Bit of chatting with [[Vellynne Harpell]]
 - 8:48am
 - [[Don Fyre]] summons a familiar [[Archbishop of Hindsight]]
-- [[Vellynne Harpell]] has a lead on the [[Codicil of the White]], to do with [[A Ship Trapped In The Ice]].
+- [[Vellynne Harpell]] has a lead on the [[Codicil of the White]], to do with [[Ship Trapped In The Ice]].
 - [[Bogbog Audacity]] was on this ship.
 - A true Somalier never reveals their hair.
 - It appears [[Vellynne Harpell]] went to bed.

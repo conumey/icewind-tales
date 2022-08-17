@@ -1,5 +1,0 @@
----
-tags:
-  - Inn
----
-# Abandoned Inn 

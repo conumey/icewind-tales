@@ -12,7 +12,7 @@ game_date: 5
 ##### [[Raisin]], [[Soren]], [[Tangkwunu]], [[Don Fyre]]
 
 ## Session Summary
-Returning to [[Caer-Konig]] to recruit help, the gang pick up [[Jarthur]] and [[Tovus]] and head back to the [[Duergar Fortress]] to continue their search for the [[Missing Gubbins]]. This time the siege is sucessful and all the duergar they find are killed, [[Glenny]]'s goats are found.
+Returning to [[Caer Konig]] to recruit help, the gang pick up [[Jarthur]] and [[Tovus]] and head back to the [[Duergar Fortress]] to continue their search for the [[Missing Gubbins]]. This time the siege is sucessful and all the duergar they find are killed, [[Glenny]]'s goats are found.
 ^summary
 
 ## Recap of last session

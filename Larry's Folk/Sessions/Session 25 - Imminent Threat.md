@@ -43,7 +43,7 @@ The gang, undeterred from their goal, entered the fortress, whre they met an ala
 - An hour to climb to the peak, a shelf-like path curls around and out of view.
 - Depeche and Don scout ahead and decide it is prudent to press on.
 - 2 hours later we reach the fortress
-- A great dragon made from [[Chardalyn]] emerges from the fortress, and flies at great speed towards [[Ten-Towns]], despite urging from [[Depeche]] to stay, [[Marc]] leaves with his guards, taking 4 axebeaks, to do what they can for [[Bryn Shander]].
+- A great dragon made from [[Chardalyn]] emerges from the fortress, and flies at great speed towards [[Tentowns]], despite urging from [[Depeche]] to stay, [[Marc]] leaves with his guards, taking 4 axebeaks, to do what they can for [[Bryn Shander]].
 - Leaving the packbeaks at the bottom of the stairs, the party climbs the stairs to the fortress.
 - A featureless locked door bars the way, but [[Depeche]] uses Mage Hand to go in through an arrow slit.
 - Don spots something through an arrow slit in the entryway and decides to try and just walk past, but [[Depeche]] positions to quickly fire a blast through.

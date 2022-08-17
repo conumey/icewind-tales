@@ -12,7 +12,7 @@ game_date: 4,5
 ##### [[Raisin]], [[Soren]], [[Tangkwunu]], [[Don Fyre]]
 
 ## Session Summary
-The group return to [[Caer-Konig]] and rest up at [[The Northern Light]], meeting [[Annie]] and [[Allie]] before doing some investigating about [[Missing Gubbins]]. [[Glenny]]'s goats were taken. The group find tracks from the goat pen and follow them, finding a large [[Duergar Fortress]]. They attempt to lay siege but are beaten back, the inhabitants being duergar and in giant form they prove to be too much, and so return to town to recruit help. 
+The group return to [[Caer Konig]] and rest up at [[The Northern Light]], meeting [[Annie]] and [[Allie]] before doing some investigating about [[Missing Gubbins]]. [[Glenny]]'s goats were taken. The group find tracks from the goat pen and follow them, finding a large [[Duergar Fortress]]. They attempt to lay siege but are beaten back, the inhabitants being duergar and in giant form they prove to be too much, and so return to town to recruit help. 
 ^summary
 
 ## Recap of last session

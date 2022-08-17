@@ -1,4 +1,4 @@
-###### From [[Danika Greysteel ]]and the Bryn Shander Printing Co. 
+###### From [[Danika Greysteel]] and the Bryn Shander Printing Co. 
 # The Daily Dale
 ###### Current Affairs, Gossip, and Weather
 
@@ -21,9 +21,9 @@ Come on down to Lonelywood and grab some of [[Big Bun]]’s biggest buns! We’v
 I’m in [[Bryn Shander]] and this week you can get your #Axebeak s for the price of 75gp buy one get one free. Also, I do potions. Is that enough do you reckon? What is this for again? Stop writing.
 
 #### Boffy's Joke Shop
-The [[Ten-Towns]] sophisticant’s choice for pranks, hijinks, gags, and rubber boobies. You’ve tried all the other joke shops, now come to mine please.
+The [[Tentowns]] sophisticant’s choice for pranks, hijinks, gags, and rubber boobies. You’ve tried all the other joke shops, now come to mine please.
 
-#### [[Hook, Line, and Sinker]] in [[Caer-Konig]]
+#### [[Hook, Line, and Sinker]] in [[Caer Konig]]
 We will give you two pies even if you pay for one pie. This should make you buy more pies apparently
 
 ### Tenday Weather Forecast
@@ -50,7 +50,7 @@ We will give you two pies even if you pay for one pie. This should make you buy 
 >> [[Copper Knobknocker]], 267, [[Bryn Shander]]
 
 >Is anyone actually doing anything about this whole eternal night situation eh? Someone should do something about it.
->> [[Vivian Crunchy]], 62, [[Caer-Konig]]
+>> [[Vivian Crunchy]], 62, [[Caer Konig]]
 
 >DTF, hung, #Half-Orc looking for low maintenance lover. Must be under 30, no kids, 5’3 – 5’5, have her own money, have her own house, be willing to let me move in, tribal dress a must, sexy, NO ELVES, willing to fit my schedule, long hair, good teeth, load bearing hips, and quiet. 
 >> [[Proon The Webbed]], 55, [[Termalaine]]
