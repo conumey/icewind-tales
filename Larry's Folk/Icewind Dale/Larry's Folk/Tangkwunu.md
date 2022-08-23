@@ -1,7 +1,8 @@
 ---
 tags:
   - Barri
-  - Missing
+  - Dead
+  - Bard
 ---
 # Tangkwunu 
 

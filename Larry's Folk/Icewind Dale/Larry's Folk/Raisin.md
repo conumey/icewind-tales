@@ -1,6 +1,8 @@
 ---
 tags:
   - Human
+  - Barbarian
+  - Artificer
 ---
 # Raisin
 ## the Moody Axe

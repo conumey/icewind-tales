@@ -2,6 +2,7 @@
 tags:
   - Dwarf
   - Smith
+  - Cleric
 ---
 # Soren 
 ## the Coin Crafter

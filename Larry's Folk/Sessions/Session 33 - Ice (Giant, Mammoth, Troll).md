@@ -8,7 +8,7 @@ game_date: 16, 17
 ---
 
 # Ice (Giant, Mammoth, Troll)
-## Session 
+## Session 33
 #### 2022-08-15 16th/17th Hammer 1490 
 ##### [[Raisin]], [[Soren]], [[Depeche]], [[Jory Namaceam]], [[Vellynne Harpell]]
 
@@ -27,7 +27,7 @@ The gang kill an Ice Giant, a Mammoth, and reach the boat. They then kill an ice
 - The mammoth is killed by [[Jory Namaceam]].
 - A bit more travelling. 
 - 4:30pm
-- The gang make camp, and have a long rest. The #Kobolds keep watch, along with a #Boar summoned by [[Jory Namaceam]].
+- The gang make camp, and have a long rest. The #Kobold keep watch, along with a #Boar summoned by [[Jory Namaceam]].
 - 12:30am 17th Hammer
 - The gang reach the boat in the ice.
 - An #Ice-Troll is living in the boat, it attacks. It is the one that kills [[Haberdash]]. 

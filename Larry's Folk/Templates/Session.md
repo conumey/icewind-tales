@@ -2,7 +2,7 @@
 type: session
 session-number: <% tp.user.session_count(tp) %>
 campaign: "Icewind Dale"
-characters: [Raisin, Soren, Don Fyre, Depeche]
+characters: [Raisin, Soren, Jory, Depeche]
 date: <% tp.date.now() %>
 game_date: 
 ---
