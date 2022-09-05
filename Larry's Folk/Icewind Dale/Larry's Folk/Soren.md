@@ -11,3 +11,5 @@ tags:
 From [[Kaeldim Kraem]]. 
 
 Aims to restore his family forge.
+
+Friends with [[Raisin]].

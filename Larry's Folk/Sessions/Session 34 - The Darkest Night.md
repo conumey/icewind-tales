@@ -4,12 +4,12 @@ session-number: 34
 campaign: "Icewind Dale"
 characters: [Raisin, Soren, Jory, Depeche]
 date: 2022-08-22
-game_date: 17
+game_date: 17, 18
 ---
 
 # The Darkest Night
 ## Session 34
-#### 2022-08-22 17th Hammer 1490
+#### 2022-08-22 17th-18th Hammer 1490
 ##### [[Raisin]], [[Soren]], [[Depeche]], [[Jory Namaceam]], [[Vellynne Harpell]]
 
 ## Session Summary
@@ -20,7 +20,6 @@ game_date: 17
 ![[Session 33 - Ice (Giant, Mammoth, Troll)#^summary]]
 
 ## Log
-- 
 - Depeche and Jory carry on chipping, while the rest explore the rest of the ship.
 - The others find a map to [[Grimskalle]]. [[Search for Ythryn]]
 - The chipping continues, including on a door upstairs.
