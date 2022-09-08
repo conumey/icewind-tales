@@ -2,5 +2,7 @@
   "templater-obsidian",
   "obsidian-style-settings",
   "obsidian-mkdocs-publisher",
-  "url-into-selection"
+  "url-into-selection",
+  "folder-note-core",
+  "alx-folder-note"
 ]

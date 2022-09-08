@@ -14,7 +14,7 @@ game_date: 18
 ## Session Summary
 After a rest to recover from their big fight with the yetis, the gang set out along the road, vowing never to trust [[Schlorpo]] again. 
 
-A while down the road they encounter a bunch of ice sculptures, lovingly rendered forms of various animals in noble poses, the ice in the sculptures is crystal clear and the weather seems to pass around them. The gang ponder them for a while, trying to decide whether to vandalise them, they weigh up the benefits of potentially angering the [[Frost Maiden]], and discuss whether she actually is behind this whole mess. 
+A while down the road they encounter a bunch of ice sculptures, lovingly rendered forms of various animals in noble poses, the ice in the sculptures is crystal clear and the weather seems to pass around them. [[Schlorpo|Stchorpo]] says that they are all carved by the [[Frost Maiden]] herself. The gang ponder them for a while, trying to decide whether to vandalise them, they weigh up the benefits of potentially angering the [[Frost Maiden]], and discuss whether she actually is behind this whole mess. 
 
 At some point during this discussion, [[Depeche]] suddenly starts performing an ad hoc funeral for [[Rickets]], laying him down in an auspicious spot, and setting him alight. [[Soren]] steps in and consecrates this funeral, and much sorrow and mourning was had by all, I'm sure.
 
