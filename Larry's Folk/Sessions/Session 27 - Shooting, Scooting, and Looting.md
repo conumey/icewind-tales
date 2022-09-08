@@ -15,12 +15,14 @@ game_date: 14
 ## Session Summary
 The gang venture down in the fortress, immediately finding [[Zardarok]] in a shrine to the [[Deep Duerra]], he is immediately destroyed. Tied to the statue is a #Mind-Flayer, [[F'yorl]] who has had part of his brain removed so he can't do magic.
 The gang frees him and hands him some flasks of alchemic fire to help in a fight, and then they will help him return to the #Underdark. 
+
 They enter a room where [[F'yorl]] said a monster lurked, the one who took his brain. The gang take no chances and go in guns blazing, literally. In the room is a #Duergar, who after being attacked is revealed to be a demon in disguise. It is dispatched without mercy.
+
 After a short rest, the gang enacts a plan to don disguises and enter the forge, with [[Depeche]] disguised as [[Zardarok]] thanks to [[Boffy]]'s magic disguise, despite no-one being able to take him seriously the gang manage to destroy the dragon heart in the forge, and make their way to the treasure room, looting ensues.
 ^summary
 
 ## Recap of last session
-![[Session 26 - Duergar, Evil and Good(ish)#^summary]]
+![[Session 26 - Duergar, Evil and Good(ish)#Session Summary]]
 
 ## Log
 - Start at 6:15am.

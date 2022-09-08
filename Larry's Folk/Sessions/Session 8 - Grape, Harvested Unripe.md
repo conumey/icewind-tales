@@ -19,7 +19,7 @@ Soren makes a fancy new sled to get back to [[Caer Konig]].
 ^summary
 
 ## Recap of last session
-![[Session 7 - Journey to the Cairn#^summary]]
+![[Session 7 - Journey to the Cairn#Session Summary]]
 
 ## Log
 

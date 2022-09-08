@@ -14,11 +14,12 @@ game_date: 14
 
 ## Session Summary
 The gang enter the forge, ready to fight, and fight they do. Though as the fight begins the rebel #Duergar reveal themselves and betray their loyalist brethren. The fight is chaotic but the gang and their makeshift allies are victorious.
+
 [[Grandolpha Muzgardt]] thanks the gang for their help and leaves for the #Underdark. The gang head out to catch the [[Chardalyn Dragon]] and encounter [[Vellynne Harpell]] on the way who enlists them for help on her quest to find the lost city of [[Ythryn]].
 ^summary
 
 ## Recap of last session
-![[Session 28 - Jailhouse Flop#^summary]]
+![[Session 28 - Jailhouse Flop#Session Summary]]
 
 ## Log
 - 8:05am

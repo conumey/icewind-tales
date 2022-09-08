@@ -10,14 +10,22 @@ game_date: 17, 18
 # The Darkest Night
 ## Session 34
 #### 2022-08-22 17th-18th Hammer 1490
-##### [[Raisin]], [[Soren]], [[Depeche]], [[Jory Namaceam]], [[Vellynne Harpell]]
+##### [[Raisin]], [[Soren]], [[Depeche]], [[Jory]], [[Vellynne Harpell]]
 
 ## Session Summary
+While [[Depeche]] and [[Jory]] carry on chipping away at the ice, the rest of the gang explore the ship further. They find a map to [[Grimskalle]], and a door coated in ice. Progress is made on the chipping, breaking through and finding minor treasures, and yet more treasure encased in yet more ice. Through the ice coated door, a chest is found with some more treasure. 
+
+In a rest from chipping, [[Depeche]] joins the exploration. In the ship's galley is a tied up starving goat. [[Depeche]] immediately frees the creature, naming it [[Rickets]], and heads out to introduce his new buddy to the gang. At the same time the rest of the gang open a door, and upon opening spears are launched out. Despite trying to shield the poor goat with his body, [[Rickets]] is struck and immediately killed. [[Depeche]] flies into a blind rage and immediately bursts forth with tentacles, killing immediately the small group of #Kobold inside. He then drops to the floor in mourning and does not recover for a while. 
+
+Callously ignoring the goblin's pain, the group get to gleaning what information they can, animating one of the dead #Kobold to ask it questions. The gang learn they served the [[White Wyrm]] in life, and with the danger of her returning, they depart.
+
+On their way along the coast some #Walrus are butchered for meat, and a nice funerary sheathe for [[Rickets]] is made from #Walrus skin. Trucking further on, the gang happen on a strange stone hovel, with nothing inside, and a couple of piers. On one of the piers is a bell, after fighting off some giant #Vulture, the gang ring the [[Angajuck's Bell|bell]].
+
+Summoned by the ringing, a large #Whale surfaces through a hole in the ice, and introduces himself the gang as [[Angajuck]], a #Whale awakened by a druid called [[Anga]]. The gang tell [[Angajuck]] of their goal, and though he does not want to go to [[Grimskalle]], he agrees to ferry them to [[Revel's End]], a port further up the coast. He warns that [[Revel's End]] smells of death and he does not trust the people there, but without any other options, they press on. 
 
 ^summary
-
 ## Recap of last session
-![[Session 33 - Ice (Giant, Mammoth, Troll)#^summary]]
+![[Session 33 - Ice (Giant, Mammoth, Troll)#Session Summary]]
 
 ## Log
 - Depeche and Jory carry on chipping, while the rest explore the rest of the ship.

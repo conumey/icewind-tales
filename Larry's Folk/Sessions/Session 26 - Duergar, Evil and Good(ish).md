@@ -18,7 +18,7 @@ Finding the second elevator, the gang is attacked by some animated plate armour.
 ^summary
 
 ## Recap of last session
-![[Session 25 - Imminent Threat#^summary]]
+![[Session 25 - Imminent Threat#Session Summary]]
 
 ## Log
 - Start mid fight around 4:30am.

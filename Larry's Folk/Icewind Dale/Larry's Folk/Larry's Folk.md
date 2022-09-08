@@ -6,7 +6,7 @@ The "heroes" of this tale.
 - [[Depeche]] - #Goblin fancyman
 - [[Raisin]] - Disgruntled vintner
 - [[Soren]] - Old master of the forge, if he had one
-- [[Jory Namaceam]] - On the run
+- [[Jory]] - On the run
 
 ## Pets
 - Axebeaks:

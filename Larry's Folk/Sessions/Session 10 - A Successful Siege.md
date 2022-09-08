@@ -17,7 +17,7 @@ Returning to [[Caer Konig]] to recruit help, the gang pick up [[Jarthur]] and [[
 ^summary
 
 ## Recap of last session
-![[Session 9 - A Failed Siege#^summary]]
+![[Session 9 - A Failed Siege#Session Summary]]
 
 ## Log
 

@@ -17,7 +17,7 @@ The gang do more sneaking and enter the #Duergar  prison. Throwing off their dis
 ^summary
 
 ## Recap of last session
-![[Session 27 - Shooting, Scooting, and Looting#^summary]]
+![[Session 27 - Shooting, Scooting, and Looting#Session Summary]]
 
 ## Log
 - 7:45am

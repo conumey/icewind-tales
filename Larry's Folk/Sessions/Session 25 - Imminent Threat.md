@@ -14,14 +14,17 @@ game_date: 12,13,14
 
 ## Session Summary
 After making [[Duvessa Shane]] aware of [[Zardarok's Weapon]], the gang make their preparations for taking on [[Sunblight]]. [[Soren]] creating new armours and the rest mostly resting.
+
 After some upset about the delay, [[Duvessa Shane]]'s offer of help seemed off the table but the gang turned it around.
+
 [[Marc]], [[Jimothy]], [[Lucille]], and [[Craig]] joined the gang on their journey. With [[Marc]]'s knowledge of the area they found a good place to cross the river and headed into the mountains, scaling a trodden path up and over a peak and round into the valley where [[Sunblight]] sits. 
+
 They were too late however, as on the approach to the fortress, a great [[Chardalyn Dragon]] rose from the fortress and took flight, heading for [[Bryn Shander]]. [[Marc]] and company departed to help the town despite [[Depeche]]'s plea.
 The gang, undeterred from their goal, entered the fortress, whre they met an alarming amount of duergar resistance.
 ^summary
 
 ## Recap of last session
-![[Session 24 - Boffy Deals and Duvessa Reels#^summary]]
+![[Session 24 - Boffy Deals and Duvessa Reels#Session Summary]]
 
 ## Log
 

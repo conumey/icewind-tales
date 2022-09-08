@@ -17,7 +17,7 @@ The gang engage in battle with the mighty [[Chardalyn Dragon]], and emerge victo
 ^summary
 
 ## Recap of last session
-![[Session 30 - Tour of Destruction#^summary]]
+![[Session 30 - Tour of Destruction#Session Summary]]
 
 ## Log
 - 8:45am

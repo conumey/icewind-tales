@@ -19,7 +19,7 @@ The group find a strange doorway and so decide to investigate, and find that it 
 ^summary
 
 ## Recap of last session
-![[Session 14 - Don Fyre the White (Fang)#^summary]]
+![[Session 14 - Don Fyre the White (Fang)#Session Summary]]
 
 ## Log
 

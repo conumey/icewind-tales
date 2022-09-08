@@ -13,12 +13,15 @@ game_date: 14,15
 ##### [[Raisin]], [[Soren]], [[Don Fyre]], [[Depeche]], [[Vellynne Harpell]]
 
 ## Session Summary
-The gang attempt to reach the [[Chardalyn Dragon]] on its tour of destruction, contacting various people who might be able to help. Only [[Boffy]] comes through, and helps them with a leg of the journey. They head from their teleport destination of [[Easthaven]] to [[Bryn Shander]] where they meet up with [[Marc]], swap their tired axebeaks out for the ones Marc took previously and set out towards [[Targos]]. On the road they encounter someone riding [[Fastbeak]], which [[Depeche]] requisitions. Reaching [[Targos]], the speaker attempts to recruit the gang into the local militia but fails, as they head on to [[Bremen]]. 
+The gang attempt to reach the [[Chardalyn Dragon]] on its tour of destruction, contacting various people who might be able to help. Only [[Boffy]] comes through, and helps them with a leg of the journey. 
+
+They head from their teleport destination of [[Easthaven]] to [[Bryn Shander]] where they meet up with [[Marc]], swap their tired axebeaks out for the ones Marc took previously and set out towards [[Targos]]. On the road they encounter someone riding [[Fastbeak]], which [[Depeche]] requisitions. Reaching [[Targos]], the speaker attempts to recruit the gang into the local militia but fails, as they head on to [[Bremen]]. 
+
 They prepare to fight the dragon, evacuating the town and any stragglers that have arrived across the lake in the process.
 ^summary
 
 ## Recap of last session
-![[Sessions/Session 29 - Slaughter and Betrayal#^summary]]
+![[Sessions/Session 29 - Slaughter and Betrayal#Session Summary]]
 
 ## Log
 - 7:15pm

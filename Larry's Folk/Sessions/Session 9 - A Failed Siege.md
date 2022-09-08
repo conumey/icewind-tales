@@ -17,7 +17,7 @@ The group return to [[Caer Konig]] and rest up at [[The Northern Light]], meetin
 ^summary
 
 ## Recap of last session
-![[Session 8 - Grape, Harvested Unripe#^summary]]
+![[Session 8 - Grape, Harvested Unripe#Session Summary]]
 
 ## Log
 

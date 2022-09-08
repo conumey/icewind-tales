@@ -7,7 +7,7 @@ tags:
 ---
 # Avarice 
 
-Said to be looking for [[Dzaan]], along with [[Nass Nantovir]] and [[Vellynne Harpell]].
+Said to be looking for [[Dzaan]], along with [[Nass Lantomir]] and [[Vellynne Harpell]].
 
 Was found in the basement of [[Caer Dineval Caer]] in [[Caer Dineval]], looked after by [[Cult of Levistus]].
 
