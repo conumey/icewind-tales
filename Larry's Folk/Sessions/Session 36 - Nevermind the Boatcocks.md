@@ -8,6 +8,7 @@ game_date: 18
 ---
 
 # Nevermind the Boatcocks
+## Session 36
 #### 2022-09-07 / 18th Hammer 1490
 ##### [[Raisin]] [[Depeche]] [[Schlorpo]] [[Vellynne Harpell]] [[Manajam]]
 

@@ -4,7 +4,7 @@ session-number: 38
 campaign: "Icewind Dale"
 characters: [Raisin, Soren, Manajam, Depeche]
 date: 2022-09-21
-game_date: 
+game_date: 19
 ---
 
 # Title
