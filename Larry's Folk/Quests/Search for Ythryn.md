@@ -5,7 +5,7 @@ tags:
 ---
 # Search for Ythryn 
 
-[[Ythryn]] is the lost city of the #Netherese.
+[[Ythryn]] is the lost city of the #Netheril.
 
 [[Vellynne Harpell]] is looking for it, along with the other members of the [[Arcane Brotherhood]]. She wants to be the first.
 

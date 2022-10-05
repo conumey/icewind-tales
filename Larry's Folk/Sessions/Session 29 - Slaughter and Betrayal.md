@@ -48,7 +48,7 @@ The gang enter the forge, ready to fight, and fight they do. Though as the fight
 - Heading straight to [[Easthaven]].
 - Travelling over the mountains, some dog pulled sleds pull up.
 - [[Vellynne Harpell]] offers help, saying she has been looking for us.
-- She's part of the [[Arcane Brotherhood]], all competing to be champion of it by finding #Netherese stuff. [[Search for Ythryn]]
+- She's part of the [[Arcane Brotherhood]], all competing to be champion of it by finding #Netheril stuff. [[Search for Ythryn]]
 - [[Codicil of the White]], powerful spellbook, on an island in the sea of shifting ice, in [[Grimskalle]] a fortress. [[Frost Maiden]] lives in there.
-- [[Raghead Glacier]], Ithrin the lost city of the #Netherese.
+- [[Raghead Glacier]], Ithrin the lost city of the #Netheril.
 - 7:15pm

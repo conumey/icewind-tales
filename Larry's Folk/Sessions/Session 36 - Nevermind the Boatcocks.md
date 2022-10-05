@@ -22,7 +22,7 @@ Back on the road the gang come upon gigantic steps hewn from the ice, leading up
 
 A little further down the road there is another sculpture park, much the same as the first.
 
-The gang depart the sculpture park and decide to trust [[Schlorpo|Zhorpo]] again, following him to a [[Boat Wreck No3|shipwreck]] full of treasure. The treasure in question turns out to be giant oysters, with nary a pearl.
+The gang depart the sculpture park and decide to trust [[Schlorpo|Zhorpo]] again, following him to a [[Boat Wreck No3|shipwreck]] full of treasure. The treasure in question turns out to be giant oysters, with nary a pearl. The Oysters were #mild and #salty
 
 More road, more sculpture parks. This time however, the statues are cloudy, and there is something making noise from within. [[Depeche]] and [[Manajam]] try to stealthily investigate, but [[Depeche]] is spotted by an #Ice-Troll who is trying to munch on some frozen corpses. The gang swiftly dispatch the troll, but take some considerable damage in the process. [[Manajam]] eats its heart.
 
@@ -68,3 +68,4 @@ As they are discussing, the roar from earlier sounds out again, this time closer
   - It gets closer and the chattering of [[Schlorpo]] becomes audible.
   - The gang lie in ambush.
   - A giant #Yeti arrives with [[Schlorpo]].
+  - 6:30pm
