@@ -6,16 +6,13 @@ characters: [Raisin, Soren, Manajam, Depeche]
 date: <% tp.date.now() %>
 game_date: 
 ---
-<% tp.file.rename('Session ' + tp.user.session_count(tp)) %>
-# Title
-## Session <% tp.user.session_count(tp) %>
-#### <% tp.date.now() %>
-#####
+<% tp.file.rename(tp.user.session_count(tp)) %>
+# <% tp.user.session_count(tp) %> - 
+#### <% tp.date.now() %> /
+##### [[Raisin]] [[Soren]] [[Manajam]] [[Depeche]] [[Vellynne Harpell]]
 
 ## Session Summary
 
-## Recap of last session
-![[Sessions/Session <% tp.user.session_count(tp) - 1 %>#Session Summary]]
 
 ## Log
 
