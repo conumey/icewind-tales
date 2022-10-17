@@ -6,22 +6,22 @@ tags:
 Large town in [[Tentowns]], [[Icewind Dale]]
 
 ## Notable Peoples
-[[Duvessa Shane]] - Speaker
-[[Marc]] - Sherriff
-[[Scramsquash]] - Inkeeper of [[Northlook Inn]]
-[[Garn]], [[Elza]] - [[Blackiron Blades]] 
-[[Oobok]], [[Hrung]], [[Korok]], [[Stern]] - Dwarven Brothers
-[[Danika Greysteel]] - Scholar
-[[Jimothy]], [[Craig]], [[Lucille]] - Guards
-[[Perry Fishfinger]] - Priest of the [[Morninglord]]
-[[Copper Knobknocker]], [[Macreadus Manspleen]] - Townsfolk
-[[Prombuly]] - Runs [[Bryn Shander Stables]]
+- [[Duvessa Shane]] - Speaker
+- [[Marc]] - Sherriff
+- [[Scramsquash]] - Inkeeper of [[Northlook Inn]]
+- [[Garn]], [[Elza]] - [[Blackiron Blades]] 
+- [[Oobok]], [[Hrung]], [[Korok]], [[Stern]] - Dwarven Brothers
+- [[Danika Greysteel]] - Scholar
+- [[Jimothy]], [[Craig]], [[Lucille]] - Guards
+- [[Perry Fishfinger]] - Priest of the [[Morninglord]]
+- [[Copper Knobknocker]], [[Macreadus Manspleen]] - Townsfolk
+- [[Prombuly]] - Runs [[Bryn Shander Stables]]
 
 ## Notable Places
-[[Bryn Shander Town Hall]]
-[[Bryn Shander Stables]]
-[[Northlook Inn]]
-[[Blackiron Blades]]
-[[House of the Morninglord]]
+- [[Bryn Shander Town Hall]]
+- [[Bryn Shander Stables]]
+- [[Northlook Inn]]
+- [[Blackiron Blades]]
+- [[House of the Morninglord]]
 
 

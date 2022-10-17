@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "clean-embeds"
   ],
-  "translucency": false
+  "translucency": false,
+  "accentColor": ""
 }

@@ -3,7 +3,10 @@
   "shimmering-focus@@show-vault-in-file-explorer": false,
   "shimmering-focus@@show-file-explorer-navigation": true,
   "shimmering-focus@@hide-attachment-folders": true,
-  "shimmering-focus@@show-titlebar": true,
-  "shimmering-focus@@show-ribbons": true,
-  "shimmering-focus@@show-header-bar": true
+  "shimmering-focus@@show-sidebar-header-buttons": false,
+  "shimmering-focus@@show-ribbon": true,
+  "shimmering-focus@@show-new-tab-button": true,
+  "shimmering-focus@@show-tab-list-button": true,
+  "shimmering-focus@@show-close-buttons": true,
+  "shimmering-focus@@normal-header-bar": true
 }
