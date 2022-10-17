@@ -1,12 +1,9 @@
 {
-  "shimmering-focus@@show-titlebar": true,
-  "shimmering-focus@@show-titlebar-text": false,
-  "shimmering-focus@@show-sidebar-tabs": false,
   "shimmering-focus@@hide-settings-button": false,
-  "shimmering-focus@@show-ribbons": true,
-  "shimmering-focus@@show-header-bar": true,
   "shimmering-focus@@show-vault-in-file-explorer": false,
   "shimmering-focus@@show-file-explorer-navigation": true,
-  "shimmering-focus@@no-file-explorer-icons": false,
-  "shimmering-focus@@no-folder-icons": false
+  "shimmering-focus@@hide-attachment-folders": true,
+  "shimmering-focus@@show-titlebar": true,
+  "shimmering-focus@@show-ribbons": true,
+  "shimmering-focus@@show-header-bar": true
 }

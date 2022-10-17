@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "a2d0b94eab7918f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3db3e0e9dde3da51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5abb4b6fb1e50f2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/40 -.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6695dbc38918053",
+    "type": "split",
+    "children": [
+      {
+        "id": "645d4f2a98e9043a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00870a2a12f975d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.5
+  },
+  "right": {
+    "id": "12716c3efed8c296",
+    "type": "split",
+    "children": [
+      {
+        "id": "cffedf0049928fab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80837f304c168e38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sessions/40 -.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0877891e2d5e5354",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2612e1886b02720",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Quiver",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "5abb4b6fb1e50f2c",
+  "lastOpenFiles": [
+    "Sessions/39 -.md",
+    "Sessions/38 -.md",
+    "Sessions/37 -.md",
+    "Sessions/36 - Nevermind the Boatcocks.md",
+    "Sessions/35 - Octopode and Unrelated Trickery.md",
+    "Sessions/34 - The Darkest Night.md",
+    "Sessions/33 - Ice (Giant, Mammoth, Troll).md",
+    "Sessions/32 - Five Pubs and Funeral.md",
+    "Sessions/31 - Chardalyn Drag-none.md",
+    "Sessions/30 - Tour of Destruction.md"
+  ]
+}
